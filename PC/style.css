@@ -1,0 +1,10 @@
+body{
+    background-color: #ec9090;
+}
+
+.cabecalho{
+    background-color: #8c7afa;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
